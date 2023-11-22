@@ -8,7 +8,7 @@ can be found in the [WaybackMacine](https://wayback.archive.org).
 Since the 2013 copyright (in the footer of the October 16, 2021, WayBackMachine version) has expired, the [German Emigration Records](https://web.archive.org/web/20230000000000*/http://www.genealoger.com/german/ger_emigration_records.htm)
 was converted to [Markdown](https://daringfireball.net/projects/markdown/).
 
-Most every entry has been double checked; many broken links have been corrected; other sources have been added.
+Most every entry has been double checked; broken links have been corrected; new sources have been added.
 
 Go to [German Emigration Records](german_emig_recs.md).
 
