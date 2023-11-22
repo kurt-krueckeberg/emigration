@@ -8,14 +8,14 @@ can be found in the [WaybackMacine](https://wayback.archive.org).
 Since the 2013 copyright (in the footer of the October 16, 2021, WayBackMachine version) has expired, the [German Emigration Records](https://web.archive.org/web/20230000000000*/http://www.genealoger.com/german/ger_emigration_records.htm)
 was converted to [Markdown](https://daringfireball.net/projects/markdown/).
 
-Each entry is currently being double checked; many broken links have been corrected; other sources and their links added; in the case of broken links where no correct current link could be found, the entry was removed.
+Most every entry has been double checked; many broken links have been corrected; other sources have been added.
 
 Go to [German Emigration Records](german_emig_recs.md).
 
 ## Website Construction Tools
 
 This documentation website was built using [Sphinx-doc](https://www.sphinx-doc.org/en/master/) and the [myst-parser](https://www.sphinx-doc.org/en/master/usage/markdown.html) extension.
-The content was written in [MyST Markdown](https://mystmd.org/guide).
+The content is in [MyST Markdown](https://mystmd.org/guide).
 
 ## Creative Commons Attribution-NonCommercial 4.0 International Public License
 
